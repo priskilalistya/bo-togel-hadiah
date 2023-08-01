@@ -1036,8 +1036,8 @@
                         <span style="text-align: center;"><b>DAPURTOTO: Bandar BO Togel Online Terbaik dan Terpercaya 2023 pasaran terlengkap deposit termurah dan gampang menang</b></span>
                     </div>
                     <div class="link-container container">
-                        <a href="https://rebrand.ly/cdapurgacor" class="register-button gradient-border-button">Masuk</a>
-                        <a href="https://rebrand.ly/cdapurgacor" class="login-button">Daftar</a>
+                        <a href="https://rebrand.ly/dapurgacor" class="register-button gradient-border-button">Masuk</a>
+                        <a href="https://rebrand.ly/dapurgacor" class="login-button">Daftar</a>
                     </div>
                 </div>
             </div>
@@ -1082,7 +1082,7 @@
                              </tr>
                              <tr>
                                 <td><b>Link Alternatif</b>:</td>
-                                <td><a href="https://rebrand.ly/cdapurgacor"><strong>Daftar Sekarang</strong></a></td>
+                                <td><a href="https://rebrand.ly/dapurgacor"><strong>Daftar Sekarang</strong></a></td>
                              </tr>
                           </tbody>
                        </table>
@@ -1286,23 +1286,23 @@
                 </div>
           </div>
           <div class="fixed-footer last-footer">
-             <a  href="https://rebrand.ly/cdapurgacor">
+             <a  href="https://rebrand.ly/dapurgacor">
                 <amp-img layout="intrinsic" height="35" width="35" src="https://simpanankakek.cloud/img/loginww.webp" alt="Login Bandar Togel"></amp-img>
                 Masuk
              </a>
-             <a href="https://rebrand.ly/cdapurgacor">
+             <a href="https://rebrand.ly/dapurgacor">
                 <amp-img layout="intrinsic" height="35" width="35" src="https://simpanankakek.cloud/img/chatww.webp" alt="Chat Bandar Togel"></amp-img>
                 Chat 
             </a>
-             <a href="https://rebrand.ly/cdapurgacor" class="animate-round">
+             <a href="https://rebrand.ly/dapurgacor" class="animate-round">
                 <amp-img class="center home_footer" layout="intrinsic" height="35" width="35" src="https://simpanankakek.cloud/img/userww.webp" alt="Daftar Bandar Togel"></amp-img>
                 Daftar
              </a>
-             <a href="https://rebrand.ly/cdapurgacor">
+             <a href="https://rebrand.ly/dapurgacor">
                 <amp-img layout="intrinsic" height="35" width="35" src="https://simpanankakek.cloud/img/bonusww.webp" alt="Promosi Bandar Togel"></amp-img>
                 Promosi
              </a>
-             <a href="https://rebrand.ly/cdapurgacor">
+             <a href="https://rebrand.ly/dapurgacor">
                 <amp-img class="live-chat-icon" layout="intrinsic" height="35" width="35" src="https://simpanankakek.cloud/img/waww.webp" alt="WA Bandar Togel"></amp-img>
                 WhatsApp
              </a>
